@@ -1,3 +1,3 @@
 # Test Documentation Site
 
-Access via [[https://krummja-test.github.io]].
+Access via [this link](https://krummja-test.github.io).
